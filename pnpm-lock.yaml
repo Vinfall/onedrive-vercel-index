@@ -108,8 +108,8 @@ dependencies:
     specifier: ^8.0.7
     version: 8.0.7(@types/react@18.2.14)(react@18.2.0)
   react-reader:
-    specifier: ^1.0.2
-    version: 1.0.2(react@18.2.0)
+    specifier: ^1.2.1
+    version: 1.2.1(react@18.2.0)
   react-syntax-highlighter:
     specifier: ^15.5.0
     version: 15.5.0(react@18.2.0)
@@ -783,7 +783,7 @@ packages:
     dev: false
 
   /@types/localforage@0.0.34:
-    resolution: {integrity: sha1-XjHDLdh5HsS5/z70fJy1Wy0NlDg=}
+    resolution: {integrity: sha512-tJxahnjm9dEI1X+hQSC5f2BSd/coZaqbIl1m3TCl0q9SVuC52XcXfV0XmoCU1+PmjyucuVITwoTnN8OlTbEXXA==}
     deprecated: This is a stub types definition for localforage (https://github.com/localForage/localForage). localforage provides its own type definitions, so you don't need @types/localforage installed!
     dependencies:
       localforage: 1.10.0
@@ -4033,7 +4033,7 @@ packages:
     dev: true
 
   /path-webpack@0.0.3:
-    resolution: {integrity: sha1-/23sdJ7sWpRgXATV9j/FVgegOhY=}
+    resolution: {integrity: sha512-AmeDxedoo5svf7aB3FYqSAKqMxys014lVKBzy1o/5vv9CtU7U4wgGWL1dA2o6MOzcD53ScN4Jmiq6VbtLz1vIQ==}
     dev: false
 
   /pdfjs-dist@2.16.105:
@@ -4460,8 +4460,8 @@ packages:
       - supports-color
     dev: false
 
-  /react-reader@1.0.2(react@18.2.0):
-    resolution: {integrity: sha512-iN0yyIDF5GsdDpo1S2HApc7hTrra77nMHeTi8QDt4xGpFMWwMO1ZQmQH44poSE0GfYy3lkMoJYXZBg3vMKmIag==}
+  /react-reader@1.2.1(react@18.2.0):
+    resolution: {integrity: sha512-E7WGgRacRW0vCRu/Yp7GwJZTfNSPG37m5RRvmC/NlYzNWdsBWCsuxTUQzNsa7DqJRW9fkaXqsaPNo0sqiVrXzg==}
     peerDependencies:
       react: '>=17.0.2'
     dependencies:
