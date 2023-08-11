@@ -155,8 +155,8 @@ devDependencies:
     specifier: ^5.0.4
     version: 5.0.4
   '@types/react-dom':
-    specifier: ^18.0.10
-    version: 18.0.10
+    specifier: ^18.2.7
+    version: 18.2.7
   '@types/react-pdf':
     specifier: ^6.2.0
     version: 6.2.0
@@ -830,8 +830,8 @@ packages:
       '@types/react': 18.2.14
     dev: true
 
-  /@types/react-dom@18.0.10:
-    resolution: {integrity: sha512-E42GW/JA4Qv15wQdqJq8DL4JhNpB3prJgjgapN3qJT9K2zO5IIAQh4VXvCEDupoqAwnz0cY4RlXeC/ajX5SFHg==}
+  /@types/react-dom@18.2.7:
+    resolution: {integrity: sha512-GRaAEriuT4zp9N4p1i8BDBYmEyfo+xQ3yHjJU4eiK5NDa1RmUZG+unZABUTK4/Ox/M+GaHwb6Ow8rUITrtjszA==}
     dependencies:
       '@types/react': 18.2.14
     dev: true
