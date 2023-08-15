@@ -3,9 +3,6 @@
 This is forked from the now archived [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index),
 please refer to the original repo if you wanna self-host it.
 
-Also, Vercel would stop deploying Node.js 16.x projects (which reaches its EOL) on 2024-02-06.
-You need either find a generous fork based on Node.js 18.x, do it yourself™, or drop onedrive-vercel-index altogether. 
-
 ## TL;DR
 
 Showcase, share, preview, and download files inside *your* OneDrive with onedrive-vercel-index -
