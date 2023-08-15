@@ -20,9 +20,7 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 ## Demo
 
-Live demo at [Spencer's OneDrive](https://drive.swo.moe).
-
-![demo](./public/demo.png)
+Live demo at ~~[Spencer's OneDrive](https://drive.swo.moe)~~ [Vinfall's Sage Stone](https://drive.vinfall.com/).
 
 ## Features
 
@@ -120,7 +118,3 @@ Yes! Completely free with no backend server what-so-ever. (Well, we use Redis, b
 
 [MIT](LICENSE)
 
-<div align="center">
-  <img src="./public/footer.png" />
-  <em>made with ❤️ by <a href="https://spencerwoo.com">spencer woo</a></em>
-</div>
