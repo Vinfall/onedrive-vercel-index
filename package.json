@@ -51,7 +51,7 @@
     "rehype-katex": "^7.0.0",
     "rehype-raw": "^7.0.0",
     "remark-gfm": "^4.0.0",
-    "remark-math": "^5.1.1",
+    "remark-math": "^6.0.0",
     "swr": "^2.2.2",
     "use-clipboard-copy": "^0.2.0",
     "use-constant": "^1.1.1"
