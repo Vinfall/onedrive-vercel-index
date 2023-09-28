@@ -44,7 +44,7 @@
     "react-hot-toast": "^2.4.1",
     "react-hotkeys-hook": "^4.4.1",
     "react-i18next": "^12.3.1",
-    "react-markdown": "^8.0.7",
+    "react-markdown": "^9.0.0",
     "react-reader": "^1.2.2",
     "react-syntax-highlighter": "^15.5.0",
     "react-use-system-theme": "^1.1.1",
