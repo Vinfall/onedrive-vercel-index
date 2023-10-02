@@ -176,8 +176,8 @@ devDependencies:
     specifier: ^9.0.0
     version: 9.0.0(eslint@8.50.0)
   i18next-parser:
-    specifier: ^8.7.0
-    version: 8.7.0
+    specifier: ^8.8.0
+    version: 8.8.0
   postcss:
     specifier: ^8.4.31
     version: 8.4.31
@@ -2750,8 +2750,8 @@ packages:
     resolution: {integrity: sha512-FTnj+UmNgT3YRml5ruRv0jMZDG7odOL/OP5PF5mOqvXud2vHrPOOs68Zdk6iqzL47cnnM0ZVkK2BAvpFeDJToA==}
     dev: false
 
-  /i18next-parser@8.7.0:
-    resolution: {integrity: sha512-rkt1Nb9RAmZa50YVJTSYdh+HiBOv/bNYEsDL9hYnnLG0xrF0ylATS2ovuZAUQ4Tamp6qjaLJNCobwwhbBTw0nQ==}
+  /i18next-parser@8.8.0:
+    resolution: {integrity: sha512-4Eh213/7+cVg/HNR3q/rIeso/IwbUdKSuxz2iJNc3iIL7FFyRJBtgGF7s2UcJyPp+/EtIujo4wAnuSFkR6oO6Q==}
     engines: {node: '>=16.0.0 || >=18.0.0 || >=20.0.0', npm: '>=6', yarn: '>=1'}
     hasBin: true
     dependencies:
