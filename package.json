@@ -45,7 +45,7 @@
     "react-hotkeys-hook": "^4.4.1",
     "react-i18next": "^12.3.1",
     "react-markdown": "^8.0.7",
-    "react-reader": "^2.0.1",
+    "react-reader": "^2.0.3",
     "react-syntax-highlighter": "^15.5.0",
     "react-use-system-theme": "^1.1.1",
     "rehype-katex": "^7.0.0",

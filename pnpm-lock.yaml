@@ -108,8 +108,8 @@ dependencies:
     specifier: ^8.0.7
     version: 8.0.7(@types/react@18.2.24)(react@18.2.0)
   react-reader:
-    specifier: ^2.0.1
-    version: 2.0.1(react@18.2.0)
+    specifier: ^2.0.3
+    version: 2.0.3(react@18.2.0)
   react-syntax-highlighter:
     specifier: ^15.5.0
     version: 15.5.0(react@18.2.0)
@@ -4748,8 +4748,8 @@ packages:
       - supports-color
     dev: false
 
-  /react-reader@2.0.1(react@18.2.0):
-    resolution: {integrity: sha512-QRprddJspCTajXZyicSc4tesvOXpA/FiNmEvI336Id1cI7mieaSv12V2F2Z55TdsdYrkbx5yYpHOppCxixJ6KQ==}
+  /react-reader@2.0.3(react@18.2.0):
+    resolution: {integrity: sha512-Gt0IHLEh+Q37r+DER8nRWlgk25ERtbF9BFBhahlcH0ZPlErANahmu3AEmVN+Pz6MMClNBkWHNXPk7WdRPibZ0A==}
     dependencies:
       epubjs: 0.3.93
       react-swipeable: 7.0.1(react@18.2.0)
