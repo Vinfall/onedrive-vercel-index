@@ -3,6 +3,8 @@
 This is forked from the now archived [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index),
 please refer to the original repo if you wanna self-host it.
 
+Contribution is highly appreciated as I have no prior experience with NextJS. For the moment the only thing I can do is utilizing dependabot to update dependencies and expect them to work flawlessly. Be sure to check [pinned issue](https://github.com/Vinfall/onedrive-vercel-index/issues/122) if you are interested!
+
 ## TL;DR
 
 Showcase, share, preview, and download files inside *your* OneDrive with onedrive-vercel-index -
