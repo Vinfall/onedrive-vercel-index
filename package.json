@@ -87,5 +87,12 @@
       "next/core-web-vitals",
       "prettier"
     ]
+  },
+  "pnpm": {
+    "overrides": {
+      "semver@>=7.0.0 <7.5.2": ">=7.5.2",
+      "zod@<=3.22.2": ">=3.22.3",
+      "postcss@<8.4.31": ">=8.4.31"
+    }
   }
 }
