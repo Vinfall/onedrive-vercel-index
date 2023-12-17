@@ -43,11 +43,15 @@ const extensions = {
   oga: icons.audio,
   opus: icons.audio,
   m4a: icons.audio,
+  wav: icons.audio,
 
   avi: icons.video,
   flv: icons.video,
   mkv: icons.video,
   mp4: icons.video,
+  mov: icons.video,
+  m3u8: icons.video,
+  webm: icons.video,
 
   '7z': icons.archive,
   bz2: icons.archive,
@@ -68,7 +72,7 @@ const extensions = {
   py: icons.code,
   css: icons.code,
   html: icons.code,
-  ts: icons.code,
+  ts: icons.code,   // typescript or video file, determined below
   tsx: icons.code,
   rs: icons.code,
   vue: icons.code,
@@ -85,6 +89,8 @@ const extensions = {
   diff: icons.text,
 
   md: icons.markdown,
+  markdown: icons.markdown,
+  mdown: icons.markdown,
 
   epub: icons.book,
   mobi: icons.book,
