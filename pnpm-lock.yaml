@@ -163,8 +163,8 @@ devDependencies:
     specifier: ^6.2.0
     version: 6.2.0
   '@types/react-syntax-highlighter':
-    specifier: ^15.5.10
-    version: 15.5.10
+    specifier: ^15.5.11
+    version: 15.5.11
   autoprefixer:
     specifier: ^10.4.16
     version: 10.4.16(postcss@8.4.31)
@@ -837,8 +837,8 @@ packages:
       - worker-loader
     dev: true
 
-  /@types/react-syntax-highlighter@15.5.10:
-    resolution: {integrity: sha512-Vf8nNkGHnjwK37b2wDs92zJSAWS2Mb57NcYHgajCNssHeTNEixvjINnXJkKdY0V0/eLrYkPP1xDKvNmYIr4HIg==}
+  /@types/react-syntax-highlighter@15.5.11:
+    resolution: {integrity: sha512-ZqIJl+Pg8kD+47kxUjvrlElrraSUrYa4h0dauY/U/FTUuprSCqvUj+9PNQNQzVc6AJgIWUUxn87/gqsMHNbRjw==}
     dependencies:
       '@types/react': 18.2.40
     dev: true
