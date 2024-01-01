@@ -178,8 +178,8 @@ devDependencies:
     specifier: ^9.0.0
     version: 9.0.0(eslint@8.52.0)
   i18next-parser:
-    specifier: ^8.9.0
-    version: 8.9.0
+    specifier: ^8.11.0
+    version: 8.11.0
   postcss:
     specifier: ^8.4.31
     version: 8.4.31
@@ -1385,8 +1385,8 @@ packages:
     resolution: {integrity: sha512-Fu4hJdvzeylCfQPp9SGWidpzrMs7tTrlu6Vb8XGaRGck8QSNZJJp538Wrb60Lax4fPwR64ViY468OIUTbRlGZg==}
     dev: false
 
-  /commander@11.0.0:
-    resolution: {integrity: sha512-9HMlXtt/BNoYr8ooyjjNRdIilOTkVJXB+GhxMTtOKwk0R4j4lS4NpjuqmRxroBfnfTSHQIHQB7wryHhXarNjmQ==}
+  /commander@11.1.0:
+    resolution: {integrity: sha512-yPVavfyCcRhmorC7rWlkHn15b4wDVgVmBA7kV4QVBsF7kv/9TKJAbAXVTxvTnwP8HHKjRCJDClKbciiYS7p0DQ==}
     engines: {node: '>=16'}
     dev: true
 
@@ -2740,15 +2740,15 @@ packages:
     resolution: {integrity: sha512-FTnj+UmNgT3YRml5ruRv0jMZDG7odOL/OP5PF5mOqvXud2vHrPOOs68Zdk6iqzL47cnnM0ZVkK2BAvpFeDJToA==}
     dev: false
 
-  /i18next-parser@8.9.0:
-    resolution: {integrity: sha512-8B+XTeBscPeswJbpBlGYxzUNXybDRltwTupJD+lLTGzBwfSfviAsSl2MEFpHc/fVlwjjd4Muw19nMpK2O+CB8A==}
+  /i18next-parser@8.11.0:
+    resolution: {integrity: sha512-ZQhGEHIu1yHM8IUBOjW9PIyQB/A9LuNccI3jxGcogwYuP3O3QJmTd5djtZpgE5vr2KHjcR7CdJjwj7xgg8NYcA==}
     engines: {node: '>=16.0.0 || >=18.0.0 || >=20.0.0', npm: '>=6', yarn: '>=1'}
     hasBin: true
     dependencies:
       broccoli-plugin: 4.0.7
       cheerio: 1.0.0-rc.12
       colors: 1.4.0
-      commander: 11.0.0
+      commander: 11.1.0
       eol: 0.9.1
       esbuild: 0.19.1
       fs-extra: 11.1.0
@@ -5079,13 +5079,6 @@ packages:
     engines: {node: '>=10.0.0'}
     dev: false
 
-  /streamx@2.13.2:
-    resolution: {integrity: sha512-+TWqixPhGDXEG9L/XczSbhfkmwAtGs3BJX5QNU6cvno+pOLKeszByWcnaTu6dg8efsTYqR8ZZuXWHhZfgrxMvA==}
-    dependencies:
-      fast-fifo: 1.1.0
-      queue-tick: 1.0.1
-    dev: true
-
   /streamx@2.15.1:
     resolution: {integrity: sha512-fQMzy2O/Q47rgwErk/eGeLu/roaFWV0jVsogDmrszM9uIw8L5OA+t+V93MgYlufNptfjmYR1tOMWhei/Eh7TQA==}
     dependencies:
@@ -5260,7 +5253,7 @@ packages:
   /teex@1.0.1:
     resolution: {integrity: sha512-eYE6iEI62Ni1H8oIa7KlDU6uQBtqr4Eajni3wX7rpfXD8ysFx8z0+dri+KWEPWpBsxXfxu58x/0jvTVT1ekOSg==}
     dependencies:
-      streamx: 2.13.2
+      streamx: 2.15.1
     dev: true
 
   /text-table@0.2.0:
