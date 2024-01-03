@@ -175,8 +175,8 @@ devDependencies:
     specifier: 14.0.1
     version: 14.0.1(eslint@8.52.0)(typescript@5.1.6)
   eslint-config-prettier:
-    specifier: ^9.0.0
-    version: 9.0.0(eslint@8.52.0)
+    specifier: ^9.1.0
+    version: 9.1.0(eslint@8.52.0)
   i18next-parser:
     specifier: ^8.9.0
     version: 8.9.0
@@ -1920,8 +1920,8 @@ packages:
       - supports-color
     dev: true
 
-  /eslint-config-prettier@9.0.0(eslint@8.52.0):
-    resolution: {integrity: sha512-IcJsTkJae2S35pRsRAwoCE+925rJJStOdkKnLVgtE+tEpqU0EVVM7OqrwxqgptKdX29NUwC82I5pXsGFIgSevw==}
+  /eslint-config-prettier@9.1.0(eslint@8.52.0):
+    resolution: {integrity: sha512-NSWl5BFQWEPi1j4TjVNItzYV7dZXZ+wP6I6ZhrBGpChQhZRUaElihE9uRRkcbRnNb76UMKDF3r+WTmNcGPKsqw==}
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'
