@@ -65,7 +65,7 @@
     "@types/react-pdf": "^6.2.0",
     "@types/react-syntax-highlighter": "^15.5.11",
     "autoprefixer": "^10.4.16",
-    "eslint": "8.52.0",
+    "eslint": "8.56.0",
     "eslint-config-next": "14.0.1",
     "eslint-config-prettier": "^9.1.0",
     "i18next-parser": "^8.12.0",
