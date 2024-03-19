@@ -1,9 +1,14 @@
 ## Notice
 
+I no longer have the intention to maintain this due to minimized usage and Microsoft's cracking down inapplicable Office E3/E5 subscriptions.
+BTW, I use [AList](https://github.com/alist-org/alist) (which requires a server and [would NOT support serverless platforms like Vercel](https://github.com/alist-org/alist/issues/3816)) now.
+
+**N.B. My AAD RegisteredApp would expire in 2024-06 so you have to apply your own on [Azure Portal](https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade) and replace those in** https://github.com/Vinfall/onedrive-vercel-index/blob/ee96e04e825ec7d4071ac504f50c786663d25f4d/config/api.config.js#L13-L14 or discard onedrive-vercel-index, as those credentials would be defunct once expired.
+
 This is forked from the now archived [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index),
 please refer to the original repo if you wanna self-host it.
 
-Contribution is highly appreciated as I have no prior experience with NextJS. For the moment the only thing I can do is utilizing dependabot to update dependencies and expect them to work flawlessly. Be sure to check [pinned issue](https://github.com/Vinfall/onedrive-vercel-index/issues/122) if you are interested!
+~~Contribution is highly appreciated as I have no prior experience with NextJS. For the moment the only thing I can do is utilizing dependabot to update dependencies and expect them to work flawlessly. Be sure to check [pinned issue](https://github.com/Vinfall/onedrive-vercel-index/issues/122) if you are interested!~~
 
 ## TL;DR
 
@@ -19,10 +24,6 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 ## Quick start
 
 🚀 Quick start: [Getting started](https://ovi.swo.moe/docs/getting-started).
-
-## Demo
-
-Live demo at ~~[Spencer's OneDrive](https://drive.swo.moe)~~ [Vinfall's Sage Stone](https://drive.vinfall.com/).
 
 ## Features
 
